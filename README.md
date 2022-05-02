@@ -3,5 +3,5 @@ Um PBL feito no meu primeiro ano em Engenharia de Computação na UEFS. Desenvol
 
 <p align="center">
 <h2 align="center">Fluxograma do programa</h2>
-![censo](https://user-images.githubusercontent.com/52046375/166342920-1cde6d63-184c-4f75-ab8b-3979362bc4fc.jpeg)
+<img alt="Tests Passing" src="https://www.imagemhost.com.br/images/2022/05/02/censo.jpg" />
 </p>
